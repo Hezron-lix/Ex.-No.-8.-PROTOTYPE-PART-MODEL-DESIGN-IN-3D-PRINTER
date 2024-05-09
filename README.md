@@ -46,9 +46,10 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
+![exp3](https://github.com/Hezron-lix/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/139331337/ca4b55ec-1459-4265-ac75-15264cd08663)
 
-### Name:
-### Register Number:
+### Name: Hezron Belix
+### Register Number: 212223230078
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
